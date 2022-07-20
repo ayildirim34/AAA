@@ -1,2 +1,5 @@
-public class aaa {aaaaa
+public class aaa {
+    public static void main(String[] args) {
+
+    }
 }
